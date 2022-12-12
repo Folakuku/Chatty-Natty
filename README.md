@@ -1,3 +1,3 @@
 ### Natty Media
 
-Chatty is a social media application with many features
+Chatty is a social media application with features similar to WhatsApp
